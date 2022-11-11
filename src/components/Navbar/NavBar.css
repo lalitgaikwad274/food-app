@@ -1,0 +1,32 @@
+nav{
+    background-color: #B22222;
+}
+
+.box{
+    background-color: #8B0000;
+    padding: 5px 10px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.count{
+    padding: 4px 10px;
+    border-radius: 50%;
+    background-color: #B22222;
+    margin: 10px ;
+}
+
+.container{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+img{
+    color: white;
+}
+
+.button{
+    background-color: #8B0000 ;
+    border: none;
+    color: white;
+}
